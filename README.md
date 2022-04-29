@@ -1,4 +1,4 @@
-# RGB888 To RGB565
+# RGB565-Bin-Converter
 
 Convert image from rgb_888 to rgb_565 binary file
 
